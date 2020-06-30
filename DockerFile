@@ -1,0 +1,4 @@
+FROM openjdk:8
+EXPOSE 8081
+ADD target/travelAgency.jar travelAgency.jar
+ENTRYPOINT ["java","-jar","/travelAgency.jar"]
