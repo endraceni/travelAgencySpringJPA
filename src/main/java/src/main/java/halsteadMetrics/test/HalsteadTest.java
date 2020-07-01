@@ -6,14 +6,6 @@ import org.junit.Test;
 
 import src.main.java.halsteadMetrics.java.HalsteadMetrics;
 
-/**
- * 
- */
-
-/**
- * @author Ahmed Metwally
- *
- */
 public class HalsteadTest {
 
 	@Test
